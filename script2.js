@@ -6,7 +6,7 @@ const enterBtn = document.getElementById("enterBtn");
 
 if (enterBtn) {
     enterBtn.addEventListener("click", () => {
-        window.location.href = "souvenirs.html";
+        window.location.href = "Souvenirs.html";
     });
 }
 
